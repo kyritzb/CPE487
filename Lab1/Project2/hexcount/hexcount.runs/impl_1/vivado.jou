@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Thu Oct 21 10:57:56 2021
+# Process ID: 7356
+# Current directory: C:/Users/Bryan/hexcount/hexcount.runs/impl_1
+# Command line: vivado.exe -log hexcount.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source hexcount.tcl -notrace
+# Log file: C:/Users/Bryan/hexcount/hexcount.runs/impl_1/hexcount.vdi
+# Journal file: C:/Users/Bryan/hexcount/hexcount.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source hexcount.tcl -notrace
